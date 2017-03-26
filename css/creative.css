@@ -27,7 +27,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #eb3812;
+    text-decoration: none;
 }
 h1,
 h2,
@@ -287,7 +287,6 @@ header .header-content .header-content-inner p {
   padding-right: 0;
   padding-left: 0;
 }
-.btn-default {
 .btn-default {
   color: #222222;
   background-color: white;
