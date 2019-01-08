@@ -1,0 +1,75 @@
+body {
+  background-color: white;
+  margin: 0px 30px;
+  font-family: 'Didact Gothic', sans-serif;
+  color: grey;
+}
+name {
+  display: block;
+  font-size: 190%;
+  font-family: 'Lora', serif;
+  color: #3a3a3a;
+  letter-spacing: 7px;
+  padding-bottom: 2px;
+}
+#title{
+  display: inline-block;
+  width: 213.8px;
+  float: left;
+  padding:16px;
+  background-color: #f2dae5;
+}
+#blurb {
+  display: block;
+  font-style: italic;
+  font-family: 'Lora', serif;
+  font-size: 90%;
+}
+header {
+  margin: 0% 1%;
+  display: block;
+  position: static;
+  background-color: white;
+  color: grey;
+  height: 90px;
+  padding-left: 8%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 2px solid grey;
+}
+.fa {
+  position: static;
+  display: inline-block;
+  padding: 10px;
+  float: right;
+}
+#intro{
+  padding-top: 50px;
+  color: #3a3a3a;
+}
+.content {
+  padding-left: 9%;
+  padding-right: 20%;
+  padding-top: 10px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+u {
+  color: #3a3a3a;
+}
+a {
+  color:#3a3a3a;
+}
+h2 {
+  color: #3a3a3a;
+}
+i {
+  color:grey;
+}
+i:hover {
+  color: #3a3a3a;
+  transition: color .4s linear;
+}
